@@ -1,4 +1,4 @@
-# Hi 👋, I'm Honeylyn Zerrudo
+# Hi 👋, I'm Pam Zerrudo
 
 💻 Frontend Developer | React Enthusiast | UI Builder  
 🌱 Currently improving my skills in React, Material UI, and full-stack development  
