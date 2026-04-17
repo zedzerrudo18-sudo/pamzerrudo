@@ -35,10 +35,9 @@ A modern React CRUD application with search, sorting, and dashboard analytics.
 ---
 
 ## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zedzerrudo18-sudo&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zedzerrudo18-sudo&layout=compact&theme=tokyonight)
 
 ---
 
