@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pam Zerrudo
 
-💻 Apiring Frontend Developer | React Enthusiast | UI Builder  
+💻 Aspiring Frontend Developer | React Enthusiast | UI Builder  
 🌱 Currently improving my skills in React, Material UI, and full-stack development  
 🚀 I enjoy building clean, functional, and user-friendly web applications  
 
